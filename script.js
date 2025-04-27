@@ -1,6 +1,4 @@
-// 200 frases de amor
-const passages = [
- // 200 frases de amor profundas y poéticas
+// 200 frases de amor profundas y poéticas
     const passages = [
       { text: "Tu sonrisa es el único código que mi corazón sabe ejecutar sin errores.", keywords: ["sonrisa", "corazón", "código"] },
       { text: "Amarte es como respirar: si dejo de hacerlo por un instante, siento que el mundo se detiene.", keywords: ["amar", "respirar", "mundo"] },
