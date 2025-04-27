@@ -255,8 +255,8 @@ const memory = {
   usedIndices: [],
   lastKeywords: [],
   favorites: [],
-  MAX_HISTORY: 20,
-  MAX_KEYWORDS: 30
+  MAX_HISTORY: 100,
+  MAX_KEYWORDS: 40
 };
 
 function getUniquePassage() {
